@@ -5,7 +5,7 @@
 export const environment = {
   production: false,
   characters:
-    'https://gateway.marvel.com:443/v1/public/characters?ts=1&apikey=dfed52e894e7b99d5fd238f50152e6d9&hash=c757d71c899b6e392d04b2b5dc6d7e1a',
+    'https://gateway.marvel.com:443/v1/public/characters?ts=1&apikey=dfed52e894e7b99d5fd238f50152e6d9&hash=c757d71c899b6e392d04b2b5dc6d7e1a&limit=100',
 };
 
 /*
